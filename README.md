@@ -1,4 +1,4 @@
-## lab1:
+# lab1:
 
 
 1. Power of xⁿ using Binary Exponentiation (Recursive)
